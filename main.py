@@ -17,7 +17,7 @@ def main():
     if email[atidx+1:].find('.') == -1:
         flag = False
   
-      print (flag)
+    print (flag)
 
 
 
